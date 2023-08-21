@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Create Flutter Project",
+    "description": "Set up a new Flutter project for your app.",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Design UI",
+    "description": "Design the user interface for your Flutter app.",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Implement Task List",
+    "description": "Create a task list view in your Flutter app.",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Add Task Detail Page",
+    "description": "Implement a task detail page for each task in the list.",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Add Task Editing",
+    "description": "Allow users to edit and update task details.",
+    "completed": false
+  }
+]
