@@ -1,0 +1,38 @@
+{
+  "employee_records": [
+    {
+      "employee_id": "E12345",
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "age": 28,
+      "department": "Engineering",
+      "skills": ["Java", "Python", "SQL"],
+      "manager": {
+        "first_name": "David",
+        "last_name": "Smith",
+        "department": "Engineering"
+      }
+    },
+    {
+      "employee_id": "E67890",
+      "first_name": "Bob",
+      "last_name": "Williams",
+      "age": 32,
+      "department": "Marketing",
+      "skills": ["Digital Marketing", "Market Research"],
+      "manager": {
+        "first_name": "Sarah",
+        "last_name": "Clark",
+        "department": "Marketing"
+      }
+    }
+  ],
+  "company_info": {
+    "company_name": "Acme Inc.",
+    "address": "123 Main Street",
+    "city": "New York",
+    "country": "USA",
+    "established_year": 2000
+  }
+}
+
