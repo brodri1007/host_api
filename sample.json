@@ -1,38 +1,101 @@
 {
-  "employee_records": [
+  "cars": [   
+{
+    "car_id": "E12345",  
+    "model": "Mustang",
+    "color": "white",
+    "make": "Chrysler",
+    "image": "https://loremflickr.com/640/480/transport",
+    "year": "2015",
+    "price": "12204.00",
+    "mileage": "42000",
+    "appointments": [ {
+        "email": "David@gmail.com",
+        "datetime": "7/1/2041: 12:30 PM"        
+      },{
+        "email": "Juan@gmail.com",
+        "datetime": "7/12/2041: 6:30 PM"     
+      },{
+        "email": "Sam@gmail.com",
+        "datetime": "7/5/2041: 11:30 AM"       
+      },{
+        "email": "Ella@gmail.com",
+        "datetime": "7/16/2041: 09:30 AM"       
+      } ]    
+  },   
+  
     {
-      "employee_id": "E12345",
-      "first_name": "Alice",
-      "last_name": "Johnson",
-      "age": 28,
-      "department": "Engineering",
-      "skills": ["Java", "Python", "SQL"],
-      "manager": {
-        "first_name": "David",
-        "last_name": "Smith",
-        "department": "Engineering"
-      }
-    },
+    "car_id": "E16546",  
+    "model": "Wrangler",
+    "color": "turquoise",
+    "make": "Toyota",
+    "image": "https://loremflickr.com/640/480/transport",
+    "year": "2020",
+    "price": "27400.00",
+    "mileage": "42000",
+    "appointments": [ {
+        "email": "David@gmail.com",
+        "datetime": "7/1/2041: 12:30 PM"        
+      },{
+        "email": "Juan@gmail.com",
+        "datetime": "7/12/2041: 6:30 PM"     
+      },{
+        "email": "Sam@gmail.com",
+        "datetime": "7/5/2041: 11:30 AM"       
+      },{
+        "email": "Ella@gmail.com",
+        "datetime": "7/16/2041: 09:30 AM"       
+      } ]    
+  },
+
+{
+    "car_id": "E86545",  
+    "model": "Beetle",
+    "color": "fuchsia",
+    "make": "Mini",
+    "image": "https://loremflickr.com/640/480/transport",
+    "year": "2025",
+    "price": "48364.00",
+    "mileage": "0",
+    "appointments": [ {
+        "email": "David@gmail.com",
+        "datetime": "7/1/2041: 12:30 PM"        
+      },{
+        "email": "Juan@gmail.com",
+        "datetime": "7/12/2041: 6:30 PM"     
+      },{
+        "email": "Sam@gmail.com",
+        "datetime": "7/5/2041: 11:30 AM"       
+      },{
+        "email": "Ella@gmail.com",
+        "datetime": "7/16/2041: 09:30 AM"       
+      } ]    
+  },   
+  
     {
-      "employee_id": "E67890",
-      "first_name": "Bob",
-      "last_name": "Williams",
-      "age": 32,
-      "department": "Marketing",
-      "skills": ["Digital Marketing", "Market Research"],
-      "manager": {
-        "first_name": "Sarah",
-        "last_name": "Clark",
-        "department": "Marketing"
-      }
-    }
-  ],
-  "company_info": {
-    "company_name": "Acme Inc.",
-    "address": "123 Main Street",
-    "city": "New York",
-    "country": "USA",
-    "established_year": 2000
-  }
+    "car_id": "E87655",  
+    "model": "Accord",
+    "color": "orange",
+    "make": "Honda",
+    "image": "https://loremflickr.com/640/480/transport",
+    "year": "2023",
+    "price": "26400.00",
+    "mileage": "18000",
+    "appointments": [ {
+        "email": "David@gmail.com",
+        "datetime": "7/1/2041: 12:30 PM"        
+      },{
+        "email": "Juan@gmail.com",
+        "datetime": "7/12/2041: 6:30 PM"     
+      },{
+        "email": "Sam@gmail.com",
+        "datetime": "7/5/2041: 11:30 AM"       
+      },{
+        "email": "Ella@gmail.com",
+        "datetime": "7/16/2041: 09:30 AM"       
+      } ]    
+  },
+
+  ]
 }
 
